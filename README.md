@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/yyyang1996">
   <img src="https://github-readme-stats.vercel.app/api?username=yyyang1996&show_icons=true" alt="yang's GitHub Stats" />
 </a>
-
-### My latest projects
 <!--
+### My latest projects
+
 <a href="https://github.com/WEGFan/codestats-profile-readme">
   <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=WEGFan&repo=codestats-profile-readme" alt="codestats-profile-readme" />
 </a>
@@ -34,5 +34,5 @@ Here are some ideas to get you started:
   <img src='https://codestats-readme.wegfan.cn/history-graph/yyyang1996?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="yang's Code::Stats history graph" />
 </a>
 -->
----
+
 
