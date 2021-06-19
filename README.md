@@ -1,4 +1,3 @@
 ### Hi there, I'm yang! 👋
-
-[blog](https://coolyang.xyz)
+我是菜鸡
  
